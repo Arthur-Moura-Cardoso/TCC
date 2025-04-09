@@ -1,0 +1,27 @@
+Perguntas - Tecnicas
+
+Qual o melhor método de irrigação? (gotejamento, continuo)
+gotejamento : como seria a distribuição da mangueira?
+
+A quantidade de água para cada baia (planta) é igual?
+
+Com qual frequência as plantas são irrigadas?
+
+Qual o melhor método de ativação? (Timer, Sensores{umidade e uv} e acionamento manual)
+
+Vocês utilizam a umidade e os raios uv como fatores para a irrigação?
+
+Atualmente, como funciona a irrigação?
+
+Esse sistema realmente iria ajudar?
+
+Qual o tamanho da baia?
+
+
+
+Perguntas - Infraestrutura
+
+Possui alguma fonte de eletricidade por perto?
+
+Possui alguma rede de internet?
+
